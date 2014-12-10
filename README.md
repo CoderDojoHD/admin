@@ -1,4 +1,4 @@
 admin
 =====
 
-Formulare und ähnliches
+Formulare und ähnliches für die Durchführung des CoderDojo Heidelberg.
