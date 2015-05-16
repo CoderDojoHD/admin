@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1424.491"
+   height="408.59784"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="698.73041"
+     inkscape:cy="94.608896"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="882"
+     inkscape:window-height="565"
+     inkscape:window-x="232"
+     inkscape:window-y="112"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-19.126737,-74.534227)">
+    <g
+       id="g3097"
+       transform="translate(19.126949,74.534009)">
+      <g
+         inkscape:label="Layer 1"
+         transform="translate(-73.218748,-183.9403)"
+         id="layer1-9">
+	<g
+   transform="matrix(0.678805,0,0,0.678805,29.642649,81.831276)"
+   id="g20781">
+		<path
+   d="m 365.195,151.425 c -1.483,0 -2.964,0.02 -4.437,0.062 -163.557,2.375 -295.563,135.82 -295.563,299.938 0,164.305 132.31,297.859 296.126,299.937 -81.015,-2.054 -146.125,-68.431 -146.125,-149.938 0,-82.8 67.199,-149.999 149.999,-149.999 82.8,0 150.001,-67.201 150.001,-150.001 0,-82.8 -67.201,-149.999 -150.001,-149.999 z"
+   id="path2168"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round" />
+
+		<path
+   id="path3084"
+   d="m 365.195,751.362 c 1.483,0 2.965,-0.019 4.438,-0.062 163.557,-2.375 295.562,-135.82 295.562,-299.938 0,-164.305 -132.308,-297.859 -296.124,-299.937 81.013,2.054 146.125,68.431 146.125,149.938 0,82.8 -67.201,149.999 -150.001,149.999 -82.8,0 -149.999,67.201 -149.999,150.001 0,82.8 67.199,149.999 149.999,149.999 z"
+   inkscape:connector-curvature="0"
+   style="stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round" />
+
+	</g>
+
+</g>
+      <g
+         transform="translate(-73.218748,-183.9403)"
+         id="layer2">
+</g>
+      <text
+         id="text3089"
+         font-size="150"
+         transform="translate(152.8201,136.7991)"
+         style="font-size:150px;font-family:OCRAExtended">0</text>
+      <text
+         id="text3091"
+         font-size="150"
+         transform="translate(160.8201,359.7991)"
+         style="font-size:150px;fill:#ffffff;font-family:OCRAExtended">1</text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:363.37026978px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="452.52533"
+       y="414.14001"
+       id="text3107"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3109"
+         x="452.52533"
+         y="414.14001"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:League Gothic;-inkscape-font-specification:League Gothic">CoderDojo</tspan></text>
+  </g>
+</svg>
